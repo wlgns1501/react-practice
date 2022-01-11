@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.item {
+  height: 100px;
+  width: 100%;
+}
+
+/* .clickedImg {
+  height: 100px;
+} */
